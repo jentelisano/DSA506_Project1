@@ -1,5 +1,5 @@
-plotly.express
-matplotlib.pyplot
+plotly
+matplotlib
 numpy
 pandas
 folium
