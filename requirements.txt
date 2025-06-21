@@ -1,0 +1,8 @@
+plotly.express
+matplotlib.pyplot
+numpy
+pandas
+folium
+json
+streamlit
+requests
